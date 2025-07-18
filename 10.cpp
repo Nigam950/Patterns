@@ -9,7 +9,7 @@ void pattern(int n)
         {
 
         
-        if(i==1 || i==n || j==1 || j==n )
+        if(i==1||i==n||j==1||j==n)
         {   
             cout<<"* ";
         }
